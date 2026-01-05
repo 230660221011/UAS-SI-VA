@@ -118,7 +118,7 @@ Memerlukan Header: Authorization: Bearer <token> | Method | Endpoint | Deskripsi
 
 File Konfigurasi: .env.example tersedia di folder root backend-api.
 
-##11. Kesimpulan
+## 11. Kesimpulan
 Proyek VibeGraph berhasil memenuhi seluruh persyaratan UAS Backend Development. Aplikasi ini mengintegrasikan sistem autentikasi yang aman, validasi data yang ketat, dan manajemen database relasional untuk menghadirkan solusi booking studio foto yang fungsional.
 
 ---
